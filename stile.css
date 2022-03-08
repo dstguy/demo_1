@@ -1,0 +1,14 @@
+.gifi{
+    position: relative;
+    margin-top: 5px;
+    left: 40%;
+    width: 300px;
+    height: 300px;
+}
+.cont{
+    background-color:grey;
+}
+
+body{
+    background-color: black;
+}
